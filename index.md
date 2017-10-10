@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+###物流、商流、资金流、信息流“四流”之间的关系
 
-You can use the [editor on GitHub](https://github.com/evernory/evernory.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+物流、商流、资金流和信息流是供应链流通过程的四大组成部分，这四者构成了一个里流通过程，几者的关系“互为存在、相互作用、密不可分”既相互独立，又是一个综合体，将物流、商流、资金流和信息流有机结合起来，会产生更大的能量，创造更大的经济效益。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+####"四流"互为因果关系
 
-### Markdown
+商流是物流、资金流和信息流的起点，也可以说是后"三流"的前提，没有商流一般不可能发生物流、资金流和信息流。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+反过来，没有物流、资金流和信息流的匹配和支撑，商流也不可能达到目的。
 
-```markdown
-Syntax highlighted code block
+>A企业与B企业经过商谈，达成了一笔供货协议，确定了商品价格、品种、数量、供货时间、交货地点、运输方式等，并签订了合同，也可以说商流活动开始了。
 
-# Header 1
-## Header 2
-### Header 3
+>要认真履行这份合同，自然要进入物流过程，将货物进行包装、装卸、保管和运输。同时伴随着信息传递活动。
 
-- Bulleted
-- List
+>如果商流和物流都顺利进行了，接下来是付款和结算，即进入资金流的过程。
 
-1. Numbered
-2. List
+>无论是买卖交易，还是物流和资金流，这三大过程中都离不开信息的传递和交换，没有及时的信息流，就没有顺畅的商流、物流和资金流。
 
-**Bold** and _Italic_ and `Code` text
+>没有资金支付，商流不会成立，物流也不会发生。
 
-[Link](url) and ![Image](src)
-```
+商流是动机和目的，资金流是条件，信息流是手段，物流是终结和归缩。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+就是说由于需要或产生购买欲望，才决定购买，购买的原因和理由就是商流的动机和目的；因为想购买或决定购买某种商品，才考虑购买资金的来源或筹措资金问题。
 
-### Jekyll Themes
+不付款商品的所有权就不归你，这就是条件；又因为决定购买，也有了资金，然后才付之行动，这就是买主要向卖主传递一个信息，或去商店向售货员传递购买信息，或电话购物、网上购物，这些都是信息传递的过程，但这种过程只是一种手段；
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/evernory/evernory.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+然而，商流、资金流和信息流产生后，必须有一个物流的过程，否则商流、资金流和信息流都没有意义。举个例子，一个单位搬进新办公地点后要购买几台空调，这个单位可能直接去商店选购，也可能打电话或网上采购，就产生了商流活动。由此也伴生出资金流(如现金支付，支票付款或银行走账)和信息流。可是只完成这"三流"，并不是事物的完结，还必须将空调送至买主，最终还是少不了运输、装卸等物流过程。
